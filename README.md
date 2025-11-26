@@ -2,7 +2,7 @@
 
 > **A Server-Side WhatsApp Bot that digitizes the manual ledger (Khata) system for a local grocery shop.**
 
-![Project Demo]([https://via.placeholder.com/800x400?text=Upload+Your+WhatsApp+Screenshot+Here](https://github.com/Thegd17/grocery-ledger-automation/issues/1))
+![Project Demo](https://github.com/Thegd17/grocery-ledger-automation/issues/1)
 *(Replace the link above with your actual screenshot url)*
 
 ## 📖 The Story
