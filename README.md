@@ -44,16 +44,19 @@ I built this bot to solve that problem. Now, he simply messages the bot on Whats
 ```Bash
 
 npm install
+
+
 3. **Setup Credentials**
-```Create a Project in Google Cloud Console.
 
-Search for and Enable Google Sheets API.
+   1.Create a Project in Google Cloud Console.
 
-Create a Service Account and download the JSON key.
+   2.Search for and Enable Google Sheets API.
 
-Rename the file to credentials.json and place it in the root folder of this project.
+   3.Create a Service Account and download the JSON key.
 
-Important: Open the JSON file, copy the client_email, and share your Google Sheet with that email address (give it Editor access).
+   4.Rename the file to credentials.json and place it in the root folder of this project.
+
+   5.Important: Open the JSON file, copy the client_email, and share your Google Sheet with that email address (give it Editor access).
 
 4. **Run the Bot**
 ```Bash
